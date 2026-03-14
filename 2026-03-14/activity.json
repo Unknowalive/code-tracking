@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-14",
+  "projects": {
+    "AI_Assignment": {
+      "totalLinesAdded": 426,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\config.py": [
+          {
+            "timestamp": "2026-03-14T09:26:55.060Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\config.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI_Assignment",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-03-14T09:26:55.591Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\config.py",
+            "fileType": ".py",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "AI_Assignment",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\algorithms\\dijkstra.py": [
+          {
+            "timestamp": "2026-03-14T09:27:05.310Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\algorithms\\dijkstra.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI_Assignment",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-03-14T09:27:25.306Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\algorithms\\dijkstra.py",
+            "fileType": ".py",
+            "linesAdded": 223,
+            "linesRemoved": 0,
+            "projectName": "AI_Assignment",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-03-14T09:27:38.209Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\algorithms\\dijkstra.py",
+            "fileType": ".py",
+            "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "AI_Assignment",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 4
+      },
+      "changeFrequency": {
+        "14": 4
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\algorithms\\dijkstra.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\ugv-path-planning\\config.py"
+      ],
+      "averageChangeSize": 85.2
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
