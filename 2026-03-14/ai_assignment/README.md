@@ -4,15 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 426                                          |
+| **Lines Added** (➕)   | 2637                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 426                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Net Change** (↕)    | 2637                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
 - **config.py** (+67, -0)
 - **dijkstra.py** (+359, -0)
+- **astar.py** (+338, -0)
+- **grid.py** (+292, -0)
+- **obstacle_generator.py** (+347, -0)
+- **ugv.py** (+312, -0)
+- **dynamic_replanning.py** (+395, -0)
+- **visualization.py** (+375, -0)
+- **test_dijkstra.py** (+152, -0)
 
 ## Visualizations
 
@@ -21,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 426
+".py" : 2637
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +36,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 5
+"14h" : 25
+"15h" : 18
 ```
 
 
-> **Last Updated:** 3/14/2026, 2:57:39 PM
+> **Last Updated:** 3/14/2026, 3:02:39 PM
