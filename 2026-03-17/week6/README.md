@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1                                          |
-| **Lines Removed** (➖) | 0                                        |
+| **Lines Added** (➕)   | 141                                          |
+| **Lines Removed** (➖) | 140                                        |
 | **Net Change** (↕)    | 1                |
-| **Active Time** (⌚)   | 0 minute |
+| **Active Time** (⌚)   | 3 minutes |
 
 
 ## Modified Files
-- **Assignment6.c** (+1, -0)
+- **Assignment6.c** (+141, -140)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".c" : 1
+".c" : 281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 1
+"16h" : 3
 ```
 
 
-> **Last Updated:** 3/17/2026, 4:53:53 PM
+> **Last Updated:** 3/17/2026, 4:58:53 PM

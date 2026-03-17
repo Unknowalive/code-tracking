@@ -2,9 +2,9 @@
   "date": "2026-03-17",
   "projects": {
     "week6": {
-      "totalLinesAdded": 1,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 141,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\Assignment6.c": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-03-17T11:26:29.423Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\Assignment6.c",
+            "fileType": ".c",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "week6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-03-17T11:28:49.360Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\Assignment6.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 140,
+            "projectName": "week6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "c"
           }
         ]
