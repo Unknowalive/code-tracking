@@ -2,9 +2,9 @@
   "date": "2026-03-17",
   "projects": {
     "week6": {
-      "totalLinesAdded": 141,
-      "totalLinesRemoved": 140,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 150,
+      "totalLinesRemoved": 141,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\Assignment6.c": [
           {
@@ -47,6 +47,50 @@
               "removed": []
             },
             "duration": 3,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\TCP_server.c": [
+          {
+            "timestamp": "2026-03-17T11:36:47.755Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\TCP_server.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "week6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-03-17T11:36:48.781Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\TCP_server.c",
+            "fileType": ".c",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "week6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-03-17T11:37:04.774Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Computer Networks\\LAB\\week6\\TCP_server.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "week6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "c"
           }
         ]
