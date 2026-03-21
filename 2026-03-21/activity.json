@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-21",
+  "projects": {
+    "Assignment 1": {
+      "totalLinesAdded": 319,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 1\\ecommerce_system.py": [
+          {
+            "timestamp": "2026-03-21T03:48:02.738Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 1\\ecommerce_system.py",
+            "fileType": ".py",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "Assignment 1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 1\\ecommerce_system.py"
+      ],
+      "averageChangeSize": 319
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
