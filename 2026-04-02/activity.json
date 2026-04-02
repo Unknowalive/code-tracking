@@ -138,9 +138,9 @@
       "averageChangeSize": 27.333333333333332
     },
     "AI-Programming-Assignment-4": {
-      "totalLinesAdded": 2201,
+      "totalLinesAdded": 2202,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 25,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\csp.py": [
           {
@@ -275,6 +275,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:18:13.093Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ],
