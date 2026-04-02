@@ -138,9 +138,9 @@
       "averageChangeSize": 27.333333333333332
     },
     "AI-Programming-Assignment-4": {
-      "totalLinesAdded": 2202,
+      "totalLinesAdded": 2314,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 30,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\csp.py": [
           {
@@ -289,6 +289,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:19:07.946Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:19:17.117Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
@@ -516,6 +544,36 @@
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sample_inputs.py",
             "fileType": ".py",
             "linesAdded": 397,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\quick_test.py": [
+          {
+            "timestamp": "2026-04-02T10:19:50.742Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\quick_test.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:19:51.845Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\quick_test.py",
+            "fileType": ".py",
+            "linesAdded": 100,
             "linesRemoved": 0,
             "projectName": "AI-Programming-Assignment-4",
             "content": {
