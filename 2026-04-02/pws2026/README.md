@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 148                                          |
+| **Lines Added** (➕)   | 213                                          |
 | **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 132                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 197                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **inorder.c** (+55, -7)
 - **maxheap.c** (+93, -9)
+- **travel.c** (+65, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".c" : 164
+".c" : 229
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 6
+"09h" : 8
 ```
 
 
-> **Last Updated:** 4/2/2026, 9:48:18 AM
+> **Last Updated:** 4/2/2026, 9:58:18 AM
