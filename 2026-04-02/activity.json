@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-02",
+  "projects": {
+    "pws2026": {
+      "totalLinesAdded": 148,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 5,
+      "files": {
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week3\\inorder.c": [
+          {
+            "timestamp": "2026-04-02T04:15:56.657Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week3\\inorder.c",
+            "fileType": ".c",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-02T04:15:57.707Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week3\\inorder.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-02T04:16:02.498Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week3\\inorder.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week4\\maxheap.c": [
+          {
+            "timestamp": "2026-04-02T04:16:21.151Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-02T04:16:23.824Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-02T04:16:29.236Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 5
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week3\\inorder.c",
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week4\\maxheap.c"
+      ],
+      "averageChangeSize": 27.333333333333332
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
