@@ -138,9 +138,9 @@
       "averageChangeSize": 27.333333333333332
     },
     "AI-Programming-Assignment-4": {
-      "totalLinesAdded": 632,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 2201,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\csp.py": [
           {
@@ -238,6 +238,270 @@
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\map_coloring_telangana.py",
             "fileType": ".py",
             "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py": [
+          {
+            "timestamp": "2026-04-02T10:08:58.644Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:08:59.805Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sudoku_solver.py",
+            "fileType": ".py",
+            "linesAdded": 228,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py": [
+          {
+            "timestamp": "2026-04-02T10:09:16.424Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:09:17.440Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:11:40.225Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:11:55.311Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:13:32.262Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:13:37.642Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:13:42.233Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\cryptarithmetic.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\visualization.py": [
+          {
+            "timestamp": "2026-04-02T10:09:31.901Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\visualization.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:09:33.077Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\visualization.py",
+            "fileType": ".py",
+            "linesAdded": 228,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\test_all_csp.py": [
+          {
+            "timestamp": "2026-04-02T10:09:46.842Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\test_all_csp.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:09:47.897Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\test_all_csp.py",
+            "fileType": ".py",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\main.py": [
+          {
+            "timestamp": "2026-04-02T10:10:34.065Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:10:35.354Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\main.py",
+            "fileType": ".py",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:11:32.152Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sample_inputs.py": [
+          {
+            "timestamp": "2026-04-02T10:10:59.827Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sample_inputs.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AI-Programming-Assignment-4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-04-02T10:11:00.816Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\ASSIGNMENT 3\\AI_Assignment\\AI-Programming-Assignment-4\\sample_inputs.py",
+            "fileType": ".py",
+            "linesAdded": 397,
             "linesRemoved": 0,
             "projectName": "AI-Programming-Assignment-4",
             "content": {
