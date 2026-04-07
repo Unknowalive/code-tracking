@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 477                                          |
+| **Lines Added** (➕)   | 1241                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 477                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Net Change** (↕)    | 1241                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **PlaybackStatusTest.kt** (+477, -0)
+- **SettingsModels.kt** (+231, -0)
+- **SettingsRepositoryImpl.kt** (+205, -0)
+- **AppSettingsViewModel.kt** (+328, -0)
 
 ## Visualizations
 
@@ -20,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".kt" : 477
+".kt" : 1241
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
+"00h" : 6
 "23h" : 2
 ```
 
 
-> **Last Updated:** 4/8/2026, 12:01:25 AM
+> **Last Updated:** 4/8/2026, 12:31:25 AM
