@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2372                                          |
+| **Lines Added** (➕)   | 3975                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2372                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Net Change** (↕)    | 3975                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
@@ -48,6 +48,23 @@
 - **TTSServiceTest.kt** (+42, -0)
 - **TranslationServiceTest.kt** (+42, -0)
 - **FileServiceTest.kt** (+54, -0)
+- **TextToSpeechServiceImplTest.kt** (+142, -0)
+- **TranslationServiceImplTest.kt** (+72, -0)
+- **FileServiceImplTest.kt** (+92, -0)
+- **BrowserServiceImplTest.kt** (+102, -0)
+- **PlaybackManagerImplTest.kt** (+131, -0)
+- **BookmarkDaoTest.kt** (+116, -0)
+- **ReadingPositionDaoTest.kt** (+121, -0)
+- **TranslationCacheDaoTest.kt** (+143, -0)
+- **PlaybackControls.kt** (+58, -0)
+- **HomeScreenTest.kt** (+123, -0)
+- **PlaybackControlsTest.kt** (+120, -0)
+- **FileToSpeechIntegrationTest.kt** (+66, -0)
+- **BrowserToSpeechIntegrationTest.kt** (+88, -0)
+- **CoroutineTestRule.kt** (+29, -0)
+- **TestFixtures.kt** (+83, -0)
+- **DatabaseInitializationTest.kt** (+57, -0)
+- **EntitySerializationTest.kt** (+60, -0)
 
 ## Visualizations
 
@@ -59,7 +76,7 @@ title Lines changed by file type
 ".json" : 11
 ".kts" : 193
 ".xml" : 192
-".kt" : 1896
+".kt" : 3499
 ".pro" : 63
 "unknown" : 17
 ```
@@ -70,8 +87,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 1
-"22h" : 57
+"22h" : 82
 ```
 
 
-> **Last Updated:** 4/7/2026, 10:10:05 PM
+> **Last Updated:** 4/7/2026, 10:55:05 PM
