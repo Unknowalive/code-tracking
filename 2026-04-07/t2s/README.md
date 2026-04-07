@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4989                                          |
+| **Lines Added** (➕)   | 6260                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4989                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Net Change** (↕)    | 6260                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,7 @@
 - **MainActivity.kt** (+56, -0)
 - **TextToSpeechServiceImpl.kt** (+262, -0)
 - **TranslationServiceImpl.kt** (+224, -0)
-- **FileServiceImpl.kt** (+69, -0)
+- **FileServiceImpl.kt** (+192, -0)
 - **BrowserServiceImpl.kt** (+62, -0)
 - **PlaybackManagerImpl.kt** (+82, -0)
 - **HomeScreen.kt** (+132, -0)
@@ -50,7 +50,7 @@
 - **FileServiceTest.kt** (+54, -0)
 - **TextToSpeechServiceImplTest.kt** (+142, -0)
 - **TranslationServiceImplTest.kt** (+72, -0)
-- **FileServiceImplTest.kt** (+92, -0)
+- **FileServiceImplTest.kt** (+247, -0)
 - **BrowserServiceImplTest.kt** (+102, -0)
 - **PlaybackManagerImplTest.kt** (+131, -0)
 - **BookmarkDaoTest.kt** (+116, -0)
@@ -72,6 +72,13 @@
 - **TextToSpeechServiceEndToEndTest.kt** (+136, -0)
 - **MyMemoryApiServiceTest.kt** (+164, -0)
 - **Phase2IntegrationTest.kt** (+209, -0)
+- **DocumentParser.kt** (+77, -0)
+- **TextDocumentParser.kt** (+156, -0)
+- **PdfDocumentParser.kt** (+199, -0)
+- **EpubDocumentParser.kt** (+192, -0)
+- **DocumentParserFactory.kt** (+56, -0)
+- **TextDocumentParserTest.kt** (+180, -0)
+- **DocumentParserFactoryTest.kt** (+133, -0)
 
 ## Visualizations
 
@@ -83,7 +90,7 @@ title Lines changed by file type
 ".json" : 11
 ".kts" : 193
 ".xml" : 192
-".kt" : 4513
+".kt" : 5784
 ".pro" : 63
 "unknown" : 17
 ```
@@ -95,7 +102,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 1
 "22h" : 101
+"23h" : 16
 ```
 
 
-> **Last Updated:** 4/7/2026, 11:00:05 PM
+> **Last Updated:** 4/7/2026, 11:05:05 PM
