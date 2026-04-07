@@ -2,9 +2,9 @@
   "date": "2026-04-08",
   "projects": {
     "T2S": {
-      "totalLinesAdded": 1241,
+      "totalLinesAdded": 4259,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\services\\playback\\PlaybackStatusTest.kt": [
           {
@@ -116,6 +116,216 @@
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\AppSettingsViewModel.kt",
             "fileType": ".kt",
             "linesAdded": 327,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreen.kt": [
+          {
+            "timestamp": "2026-04-07T19:02:01.666Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreen.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:02:02.553Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreen.kt",
+            "fileType": ".kt",
+            "linesAdded": 533,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControls.kt": [
+          {
+            "timestamp": "2026-04-07T19:02:28.993Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControls.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:02:29.808Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControls.kt",
+            "fileType": ".kt",
+            "linesAdded": 436,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsRepositoryTest.kt": [
+          {
+            "timestamp": "2026-04-07T19:02:53.726Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsRepositoryTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:02:54.607Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsRepositoryTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 481,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\AppSettingsViewModelTest.kt": [
+          {
+            "timestamp": "2026-04-07T19:03:16.896Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\AppSettingsViewModelTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:03:17.499Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\AppSettingsViewModelTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 359,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControlsUITest.kt": [
+          {
+            "timestamp": "2026-04-07T19:03:35.493Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControlsUITest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:03:36.105Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\PlaybackControlsUITest.kt",
+            "fileType": ".kt",
+            "linesAdded": 379,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreenUITest.kt": [
+          {
+            "timestamp": "2026-04-07T19:03:57.178Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreenUITest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:03:57.831Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\androidTest\\kotlin\\com\\t2s\\settings\\ui\\SettingsScreenUITest.kt",
+            "fileType": ".kt",
+            "linesAdded": 439,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsIntegrationTest.kt": [
+          {
+            "timestamp": "2026-04-07T19:04:19.604Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsIntegrationTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T19:04:20.333Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\settings\\SettingsIntegrationTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 384,
             "linesRemoved": 0,
             "projectName": "T2S",
             "content": {
