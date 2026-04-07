@@ -2,9 +2,9 @@
   "date": "2026-04-07",
   "projects": {
     "T2S": {
-      "totalLinesAdded": 334,
+      "totalLinesAdded": 2372,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 55,
       "files": {
         "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\chatLanguageModels.json": [
           {
@@ -120,6 +120,768 @@
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\T2SApplication.kt",
             "fileType": ".kt",
             "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\ITextToSpeechService.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:10.746Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\ITextToSpeechService.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:11.086Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\ITextToSpeechService.kt",
+            "fileType": ".kt",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\ITranslationService.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:10.867Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\ITranslationService.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:11.047Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\ITranslationService.kt",
+            "fileType": ".kt",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\IFileService.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:10.964Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\IFileService.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:10.982Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\IFileService.kt",
+            "fileType": ".kt",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\browser\\IBrowserService.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:11.536Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\browser\\IBrowserService.kt",
+            "fileType": ".kt",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\playback\\IPlaybackManager.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:18.891Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\playback\\IPlaybackManager.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:19.203Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\playback\\IPlaybackManager.kt",
+            "fileType": ".kt",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\di\\AppModule.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:41.555Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\di\\AppModule.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:41.814Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\di\\AppModule.kt",
+            "fileType": ".kt",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Theme.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:41.724Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Theme.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:42.049Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Theme.kt",
+            "fileType": ".kt",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Type.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:41.841Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Type.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:42.069Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\theme\\Type.kt",
+            "fileType": ".kt",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\util\\BaseViewModel.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:42.097Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\util\\BaseViewModel.kt",
+            "fileType": ".kt",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\T2SDatabase.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:55.091Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\T2SDatabase.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:55.370Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\T2SDatabase.kt",
+            "fileType": ".kt",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\Converters.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:55.203Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\Converters.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:55.378Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\Converters.kt",
+            "fileType": ".kt",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\models\\Entities.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:55.325Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\models\\Entities.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:35:55.410Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\models\\Entities.kt",
+            "fileType": ".kt",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\Dao.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:55.567Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\Dao.kt",
+            "fileType": ".kt",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\MainActivity.kt": [
+          {
+            "timestamp": "2026-04-07T16:35:56.591Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\MainActivity.kt",
+            "fileType": ".kt",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\TextToSpeechServiceImpl.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:20.981Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\TextToSpeechServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:21.464Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\tts\\TextToSpeechServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\TranslationServiceImpl.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:21.106Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\TranslationServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:21.436Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\translation\\TranslationServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\FileServiceImpl.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:21.248Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\FileServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:21.444Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\file\\FileServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\browser\\BrowserServiceImpl.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:21.428Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\browser\\BrowserServiceImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\playback\\PlaybackManagerImpl.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:21.963Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\playback\\PlaybackManagerImpl.kt",
+            "fileType": ".kt",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\screens\\HomeScreen.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:39.837Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\screens\\HomeScreen.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:40.189Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\ui\\screens\\HomeScreen.kt",
+            "fileType": ".kt",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\accessibility\\SelectToSpeakService.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:40.002Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\accessibility\\SelectToSpeakService.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:40.197Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\accessibility\\SelectToSpeakService.kt",
+            "fileType": ".kt",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\clipboard\\ClipboardReceiver.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:40.152Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\clipboard\\ClipboardReceiver.kt",
+            "fileType": ".kt",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\T2SContentProvider.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:40.215Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\data\\local\\T2SContentProvider.kt",
+            "fileType": ".kt",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\foreground\\AudioPlaybackForegroundService.kt": [
+          {
+            "timestamp": "2026-04-07T16:36:41.687Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\kotlin\\com\\t2s\\services\\foreground\\AudioPlaybackForegroundService.kt",
+            "fileType": ".kt",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\res\\values\\strings.xml": [
+          {
+            "timestamp": "2026-04-07T16:36:57.681Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\res\\values\\strings.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:57.885Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\res\\values\\strings.xml",
+            "fileType": ".xml",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\proguard-rules.pro": [
+          {
+            "timestamp": "2026-04-07T16:36:57.699Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\proguard-rules.pro",
+            "fileType": ".pro",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pro"
+          },
+          {
+            "timestamp": "2026-04-07T16:36:57.869Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\proguard-rules.pro",
+            "fileType": ".pro",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pro"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\res\\values\\dimens.xml": [
+          {
+            "timestamp": "2026-04-07T16:36:57.898Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\main\\res\\values\\dimens.xml",
+            "fileType": ".xml",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\.gitignore": [
+          {
+            "timestamp": "2026-04-07T16:36:58.132Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TTSServiceTest.kt": [
+          {
+            "timestamp": "2026-04-07T16:37:12.461Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TTSServiceTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:37:12.865Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TTSServiceTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TranslationServiceTest.kt": [
+          {
+            "timestamp": "2026-04-07T16:37:12.698Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TranslationServiceTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          },
+          {
+            "timestamp": "2026-04-07T16:37:12.875Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\TranslationServiceTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "T2S",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\FileServiceTest.kt": [
+          {
+            "timestamp": "2026-04-07T16:37:12.886Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\T2S\\T2S-Android\\app\\src\\test\\kotlin\\com\\t2s\\FileServiceTest.kt",
+            "fileType": ".kt",
+            "linesAdded": 54,
             "linesRemoved": 0,
             "projectName": "T2S",
             "content": {
