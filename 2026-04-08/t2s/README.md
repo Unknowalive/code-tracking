@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8957                                          |
-| **Lines Removed** (➖) | 0                                        |
+| **Lines Added** (➕)   | 11633                                          |
+| **Lines Removed** (➖) | 2676                                        |
 | **Net Change** (↕)    | 8957                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Active Time** (⌚)   | 63 minutes |
 
 
 ## Modified Files
@@ -27,14 +27,14 @@
 - **BrowserViewModelTest.kt** (+421, -0)
 - **BrowserViewScreenUITest.kt** (+423, -0)
 - **BrowserIntegrationTest.kt** (+491, -0)
-- **ExportModels.kt** (+209, -0)
-- **AudioExportServiceImpl.kt** (+300, -0)
-- **ExportViewModel.kt** (+298, -0)
-- **ExportScreen.kt** (+518, -0)
-- **AudioExportServiceTest.kt** (+342, -0)
-- **ExportViewModelTest.kt** (+367, -0)
-- **ExportScreenUITest.kt** (+285, -0)
-- **ExportIntegrationTest.kt** (+365, -0)
+- **ExportModels.kt** (+417, -208)
+- **AudioExportServiceImpl.kt** (+599, -299)
+- **ExportViewModel.kt** (+595, -297)
+- **ExportScreen.kt** (+1035, -517)
+- **AudioExportServiceTest.kt** (+683, -341)
+- **ExportViewModelTest.kt** (+733, -366)
+- **ExportScreenUITest.kt** (+569, -284)
+- **ExportIntegrationTest.kt** (+729, -364)
 
 ## Visualizations
 
@@ -43,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".kt" : 8957
+".kt" : 14309
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 30
 "06h" : 16
+"07h" : 16
 "23h" : 2
 ```
 
 
-> **Last Updated:** 4/8/2026, 6:20:44 AM
+> **Last Updated:** 4/8/2026, 7:35:44 AM
