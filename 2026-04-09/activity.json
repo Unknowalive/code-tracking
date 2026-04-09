@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-09",
+  "projects": {
+    "pws2026": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c": [
+          {
+            "timestamp": "2026-04-09T03:22:24.778Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
