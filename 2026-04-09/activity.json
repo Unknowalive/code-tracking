@@ -2,9 +2,9 @@
   "date": "2026-04-09",
   "projects": {
     "pws2026": {
-      "totalLinesAdded": 1,
+      "totalLinesAdded": 40,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c": [
           {
@@ -19,6 +19,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-09T03:22:39.475Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-09T03:22:57.178Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c",
+            "fileType": ".c",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-09T03:24:34.307Z",
+            "fileName": "\\\\wsl.localhost\\Ubuntu\\home\\ujjwal-kr\\pws2026\\week7\\min-platform.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "pws2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "c"
           }
         ]
