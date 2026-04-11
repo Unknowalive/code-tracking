@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-11",
+  "projects": {
+    "Scripting workshop": {
+      "totalLinesAdded": 1405,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\python_automation\\automation_system.py": [
+          {
+            "timestamp": "2026-04-11T07:46:33.727Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\python_automation\\automation_system.py",
+            "fileType": ".py",
+            "linesAdded": 684,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh": [
+          {
+            "timestamp": "2026-04-11T07:46:53.776Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\crontab_setup.txt": [
+          {
+            "timestamp": "2026-04-11T07:47:17.985Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\crontab_setup.txt",
+            "fileType": ".txt",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day1.log": [
+          {
+            "timestamp": "2026-04-11T07:47:31.155Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day1.log",
+            "fileType": ".log",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day2.log": [
+          {
+            "timestamp": "2026-04-11T07:47:43.335Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day2.log",
+            "fileType": ".log",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day3.log": [
+          {
+            "timestamp": "2026-04-11T07:47:54.996Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day3.log",
+            "fileType": ".log",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\sample_report.json": [
+          {
+            "timestamp": "2026-04-11T07:48:46.514Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\sample_report.json",
+            "fileType": ".json",
+            "linesAdded": 149,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "sh": 1,
+        "txt": 1,
+        "log": 3,
+        "json": 1
+      },
+      "changeFrequency": {
+        "13": 6
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\python_automation\\automation_system.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\crontab_setup.txt",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day1.log",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\outputs\\system_monitoring_output_day2.log"
+      ],
+      "averageChangeSize": 200.71428571428572
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "log",
+    "sh",
+    "txt",
+    "json",
+    "py"
+  ]
+}
