@@ -2,9 +2,9 @@
   "date": "2026-04-11",
   "projects": {
     "Scripting workshop": {
-      "totalLinesAdded": 4103,
-      "totalLinesRemoved": 51,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 5058,
+      "totalLinesRemoved": 358,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\python_automation\\automation_system.py": [
           {
@@ -140,6 +140,118 @@
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
             "fileType": ".sh",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:24:55.471Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:01.004Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:05.843Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:13.816Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:18.671Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:23.129Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 307,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:23.140Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 310,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-04-11T08:25:40.860Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\system_automation.sh",
+            "fileType": ".sh",
+            "linesAdded": 57,
             "linesRemoved": 0,
             "projectName": "Scripting workshop",
             "content": {
@@ -402,6 +514,54 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\VERIFY_FIXES.sh": [
+          {
+            "timestamp": "2026-04-11T08:26:40.751Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\VERIFY_FIXES.sh",
+            "fileType": ".sh",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\FINAL_ACTION_PLAN.txt": [
+          {
+            "timestamp": "2026-04-11T08:27:06.465Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\FINAL_ACTION_PLAN.txt",
+            "fileType": ".txt",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\00_READ_ME_FIRST_TODAY.txt": [
+          {
+            "timestamp": "2026-04-11T08:27:41.656Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\00_READ_ME_FIRST_TODAY.txt",
+            "fileType": ".txt",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
