@@ -2,7 +2,7 @@
   "date": "2026-04-11",
   "projects": {
     "Scripting workshop": {
-      "totalLinesAdded": 5387,
+      "totalLinesAdded": 5667,
       "totalLinesRemoved": 358,
       "totalActiveTime": 44,
       "files": {
@@ -675,6 +675,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\FINAL_SUBMISSION_READINESS.txt": [
+          {
+            "timestamp": "2026-04-11T09:14:09.404Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\FINAL_SUBMISSION_READINESS.txt",
+            "fileType": ".txt",
+            "linesAdded": 280,
+            "linesRemoved": 0,
+            "projectName": "Scripting workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ]
