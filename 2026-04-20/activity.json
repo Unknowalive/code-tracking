@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-20",
+  "projects": {
+    "Assignment 2": {
+      "totalLinesAdded": 1825,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log": [
+          {
+            "timestamp": "2026-04-20T17:35:00.713Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+            "fileType": ".log",
+            "linesAdded": 457,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T17:35:01.053Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T17:35:01.765Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+            "fileType": ".log",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T17:35:02.048Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+            "fileType": ".log",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T17:35:02.732Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\outputs\\system_monitoring_continuous.log": [
+          {
+            "timestamp": "2026-04-20T17:35:01.073Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\outputs\\system_monitoring_continuous.log",
+            "fileType": ".log",
+            "linesAdded": 1358,
+            "linesRemoved": 0,
+            "projectName": "Assignment 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ]
+      },
+      "languageStats": {
+        "log": 5
+      },
+      "changeFrequency": {
+        "23": 5
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\logs\\activity.log",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment 2\\linux_automation\\outputs\\system_monitoring_continuous.log"
+      ],
+      "averageChangeSize": 304.1666666666667
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "log"
+  ]
+}
