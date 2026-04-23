@@ -1,0 +1,455 @@
+{
+  "date": "2026-04-23",
+  "projects": {
+    "Programming Workshop": {
+      "totalLinesAdded": 492,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 28,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c": [
+          {
+            "timestamp": "2026-04-23T04:19:53.859Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:19:55.825Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:20:06.381Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:20:16.056Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:21:41.695Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:22:01.691Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c": [
+          {
+            "timestamp": "2026-04-23T04:20:27.396Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:20:29.181Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:20:36.000Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:20:44.343Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:21:08.168Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:21:14.842Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:21:19.448Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:21:29.822Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c": [
+          {
+            "timestamp": "2026-04-23T04:22:34.870Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c",
+            "fileType": ".c",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:22:35.897Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:22:42.034Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c",
+            "fileType": ".c",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week6\\travel.c": [
+          {
+            "timestamp": "2026-04-23T04:23:03.967Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week6\\travel.c",
+            "fileType": ".c",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:04.991Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week6\\travel.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:09.576Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week6\\travel.c",
+            "fileType": ".c",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\bt-zigzag01.c": [
+          {
+            "timestamp": "2026-04-23T04:23:29.270Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\bt-zigzag01.c",
+            "fileType": ".c",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:29.846Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\bt-zigzag01.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:33.803Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\bt-zigzag01.c",
+            "fileType": ".c",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\Mergeover02.c": [
+          {
+            "timestamp": "2026-04-23T04:23:51.883Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\Mergeover02.c",
+            "fileType": ".c",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:52.901Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\Mergeover02.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:23:56.808Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\Mergeover02.c",
+            "fileType": ".c",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week4\\maxheap.c": [
+          {
+            "timestamp": "2026-04-23T04:24:07.062Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:24:10.271Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-23T04:24:29.798Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week4\\maxheap.c",
+            "fileType": ".c",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 28
+      },
+      "changeFrequency": {
+        "9": 28
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\rainwater.c",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week6\\travel.c",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week5\\bt-zigzag01.c"
+      ],
+      "averageChangeSize": 17.17241379310345
+    }
+  },
+  "totalActiveTime": 28,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
