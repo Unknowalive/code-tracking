@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-29",
+  "projects": {
+    "week10": {
+      "totalLinesAdded": 140,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "e:\\Se23ucse177(C.N)\\week10\\DVR.c": [
+          {
+            "timestamp": "2026-04-29T09:05:45.118Z",
+            "fileName": "e:\\Se23ucse177(C.N)\\week10\\DVR.c",
+            "fileType": ".c",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "week10",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2026-04-29T09:05:46.191Z",
+            "fileName": "e:\\Se23ucse177(C.N)\\week10\\DVR.c",
+            "fileType": ".c",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "week10",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "e:\\Se23ucse177(C.N)\\week10\\DVR.c"
+      ],
+      "averageChangeSize": 70
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
