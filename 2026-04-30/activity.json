@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-30",
+  "projects": {
+    "Programming Workshop": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c": [
+          {
+            "timestamp": "2026-04-30T03:55:28.635Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c",
+            "fileType": ".c",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Programming Workshop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c"
+      ],
+      "averageChangeSize": 65
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
