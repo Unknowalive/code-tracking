@@ -33,6 +33,39 @@
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week7\\min-platform02.c"
       ],
       "averageChangeSize": 65
+    },
+    "week8": {
+      "totalLinesAdded": 54,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c": [
+          {
+            "timestamp": "2026-04-30T04:37:40.522Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c",
+            "fileType": ".c",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "week8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Programming Workshop\\week8\\frog.c"
+      ],
+      "averageChangeSize": 54
     }
   },
   "totalActiveTime": 0,
