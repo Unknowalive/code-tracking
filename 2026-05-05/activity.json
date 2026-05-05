@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-05",
+  "projects": {
+    "Assignment-3": {
+      "totalLinesAdded": 665,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 11,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\01_top_20_hosts.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:21.715Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\01_top_20_hosts.sh",
+            "fileType": ".sh",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\02_requests_per_day.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:21.812Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\02_requests_per_day.sh",
+            "fileType": ".sh",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\03_requests_per_hour.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:21.905Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\03_requests_per_hour.sh",
+            "fileType": ".sh",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\04_most_requested_files.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.039Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\04_most_requested_files.sh",
+            "fileType": ".sh",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\05_status_code_percentage.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.086Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\05_status_code_percentage.sh",
+            "fileType": ".sh",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\06_top_404_files.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.230Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\06_top_404_files.sh",
+            "fileType": ".sh",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\07_average_bytes.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.291Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\07_average_bytes.sh",
+            "fileType": ".sh",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\08_file_types.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.394Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\08_file_types.sh",
+            "fileType": ".sh",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\09_busiest_time_window.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.465Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\09_busiest_time_window.sh",
+            "fileType": ".sh",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\10_bot_crawlers.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:22.554Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\10_bot_crawlers.sh",
+            "fileType": ".sh",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\run_all_analyses.sh": [
+          {
+            "timestamp": "2026-05-05T14:39:56.521Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\run_all_analyses.sh",
+            "fileType": ".sh",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\datasets\\sample_nasa_logs.txt": [
+          {
+            "timestamp": "2026-05-05T14:40:20.764Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\datasets\\sample_nasa_logs.txt",
+            "fileType": ".txt",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "Assignment-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 10,
+        "txt": 1
+      },
+      "changeFrequency": {
+        "20": 11
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\01_top_20_hosts.sh",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\02_requests_per_day.sh",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\03_requests_per_hour.sh",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\04_most_requested_files.sh",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Assignment-3\\scripts\\05_status_code_percentage.sh"
+      ],
+      "averageChangeSize": 55.416666666666664
+    }
+  },
+  "totalActiveTime": 11,
+  "totalProjects": 1,
+  "totalFiles": 12,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "sh",
+    "txt"
+  ]
+}
