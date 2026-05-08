@@ -2,9 +2,9 @@
   "date": "2026-05-08",
   "projects": {
     "Project": {
-      "totalLinesAdded": 1322,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 1323,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-05-08T16:47:57.942Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-05-08T16:47:57.966Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ],
