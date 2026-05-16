@@ -132,6 +132,205 @@
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\projects\\SWS\\SWS\\validation.py"
       ],
       "averageChangeSize": 35.714285714285715
+    },
+    "Project": {
+      "totalLinesAdded": 1374,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py": [
+          {
+            "timestamp": "2026-05-16T05:41:56.464Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py",
+            "fileType": ".py",
+            "linesAdded": 951,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\.env.sample": [
+          {
+            "timestamp": "2026-05-16T05:41:56.538Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\.env.sample",
+            "fileType": ".sample",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sample"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\requirements.txt": [
+          {
+            "timestamp": "2026-05-16T05:41:56.517Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_cleanup.sh": [
+          {
+            "timestamp": "2026-05-16T05:41:57.648Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_cleanup.sh",
+            "fileType": ".sh",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_backup.sh": [
+          {
+            "timestamp": "2026-05-16T05:41:57.627Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_backup.sh",
+            "fileType": ".sh",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\.gitignore": [
+          {
+            "timestamp": "2026-05-16T05:41:57.588Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_cleanup.bat": [
+          {
+            "timestamp": "2026-05-16T05:41:57.699Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_cleanup.bat",
+            "fileType": ".bat",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_backup.bat": [
+          {
+            "timestamp": "2026-05-16T05:41:57.675Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_backup.bat",
+            "fileType": ".bat",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\db_ops.log": [
+          {
+            "timestamp": "2026-05-16T05:43:19.756Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\db_ops.log",
+            "fileType": ".log",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-05-16T05:43:25.931Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\db_ops.log",
+            "fileType": ".log",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-05-16T05:43:32.672Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\db_ops.log",
+            "fileType": ".log",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "sample": 0,
+        "txt": 0,
+        "sh": 2,
+        "unknown": 1,
+        "bat": 2,
+        "log": 4
+      },
+      "changeFrequency": {
+        "11": 9
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\db_ops.log",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\main.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\.env.sample",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\requirements.txt",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\Scripting workshop\\Project\\db_backup_migration\\run_cleanup.sh"
+      ],
+      "averageChangeSize": 124.9090909090909
     }
   },
   "totalActiveTime": 6,
