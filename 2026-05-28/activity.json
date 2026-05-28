@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-28",
+  "projects": {
+    "ASSIGNMENT 3": {
+      "totalLinesAdded": 3092,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 11,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\game.py": [
+          {
+            "timestamp": "2026-05-28T15:05:48.024Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\game.py",
+            "fileType": ".py",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\minimax.py": [
+          {
+            "timestamp": "2026-05-28T15:06:00.218Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\minimax.py",
+            "fileType": ".py",
+            "linesAdded": 154,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\alpha_beta.py": [
+          {
+            "timestamp": "2026-05-28T15:06:12.579Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\alpha_beta.py",
+            "fileType": ".py",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\heuristic_search.py": [
+          {
+            "timestamp": "2026-05-28T15:06:25.597Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\heuristic_search.py",
+            "fileType": ".py",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\mcts.py": [
+          {
+            "timestamp": "2026-05-28T15:06:45.784Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\mcts.py",
+            "fileType": ".py",
+            "linesAdded": 310,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\comparison.py": [
+          {
+            "timestamp": "2026-05-28T15:07:09.437Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\comparison.py",
+            "fileType": ".py",
+            "linesAdded": 238,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\test_algorithms.py": [
+          {
+            "timestamp": "2026-05-28T15:07:33.960Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\test_algorithms.py",
+            "fileType": ".py",
+            "linesAdded": 378,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\knowledge_base.py": [
+          {
+            "timestamp": "2026-05-28T15:08:36.354Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\knowledge_base.py",
+            "fileType": ".py",
+            "linesAdded": 382,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\reasoning_engine.py": [
+          {
+            "timestamp": "2026-05-28T15:09:02.178Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\reasoning_engine.py",
+            "fileType": ".py",
+            "linesAdded": 365,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\demo.py": [
+          {
+            "timestamp": "2026-05-28T15:09:22.645Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 331,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\test_planner.py": [
+          {
+            "timestamp": "2026-05-28T15:09:45.580Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task2_travel_planner\\test_planner.py",
+            "fileType": ".py",
+            "linesAdded": 398,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 11
+      },
+      "changeFrequency": {
+        "20": 11
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\game.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\minimax.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\alpha_beta.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\heuristic_search.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\mcts.py"
+      ],
+      "averageChangeSize": 281.09090909090907
+    }
+  },
+  "totalActiveTime": 11,
+  "totalProjects": 1,
+  "totalFiles": 11,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
