@@ -2,9 +2,9 @@
   "date": "2026-05-28",
   "projects": {
     "ASSIGNMENT 3": {
-      "totalLinesAdded": 3092,
+      "totalLinesAdded": 3541,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task1_game_playing\\game.py": [
           {
@@ -179,6 +179,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task3_knowledge_graphs\\simple_kg.py": [
+          {
+            "timestamp": "2026-05-28T15:11:35.277Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Complete_Assignment\\task3_knowledge_graphs\\simple_kg.py",
+            "fileType": ".py",
+            "linesAdded": 449,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
