@@ -2,9 +2,9 @@
   "date": "2026-05-29",
   "projects": {
     "ASSIGNMENT 3": {
-      "totalLinesAdded": 1215,
+      "totalLinesAdded": 2295,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\bayesian_network.py": [
           {
@@ -51,6 +51,54 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\visualization.py": [
+          {
+            "timestamp": "2026-05-29T12:31:23.157Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\visualization.py",
+            "fileType": ".py",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\test_bayesian.py": [
+          {
+            "timestamp": "2026-05-29T12:33:18.593Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\test_bayesian.py",
+            "fileType": ".py",
+            "linesAdded": 404,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\demo.py": [
+          {
+            "timestamp": "2026-05-29T12:34:43.414Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 401,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
