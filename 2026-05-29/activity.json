@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-29",
+  "projects": {
+    "ASSIGNMENT 3": {
+      "totalLinesAdded": 1215,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\bayesian_network.py": [
+          {
+            "timestamp": "2026-05-29T12:29:10.121Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\bayesian_network.py",
+            "fileType": ".py",
+            "linesAdded": 437,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\disease_diagnosis.py": [
+          {
+            "timestamp": "2026-05-29T12:29:58.529Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\disease_diagnosis.py",
+            "fileType": ".py",
+            "linesAdded": 298,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\inference_engine.py": [
+          {
+            "timestamp": "2026-05-29T12:30:30.979Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\inference_engine.py",
+            "fileType": ".py",
+            "linesAdded": 480,
+            "linesRemoved": 0,
+            "projectName": "ASSIGNMENT 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "17": 1,
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\bayesian_network.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\disease_diagnosis.py",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER IV 2026\\A.I\\CODE\\AI_Assignment5\\task4_bayesian_networks\\inference_engine.py"
+      ],
+      "averageChangeSize": 405
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    17,
+    18
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
