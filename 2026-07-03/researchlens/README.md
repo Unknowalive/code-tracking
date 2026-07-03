@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1047                                          |
-| **Lines Removed** (➖) | 110                                        |
-| **Net Change** (↕)    | 937                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Lines Added** (➕)   | 1061                                          |
+| **Lines Removed** (➖) | 131                                        |
+| **Net Change** (↕)    | 930                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
-- **ingestion.py** (+218, -0)
-- **chunking.py** (+83, -0)
-- **retrieval.py** (+129, -0)
-- **generation.py** (+72, -0)
-- **requirements.txt** (+14, -0)
+- **ingestion.py** (+218, -1)
+- **chunking.py** (+96, -0)
+- **retrieval.py** (+129, -16)
+- **generation.py** (+73, -0)
+- **requirements.txt** (+14, -4)
 - **git-rebase-todo** (+1, -0)
 - **__init__.py** (+8, -0)
 - **ingestion.py** (+20, -0)
@@ -34,8 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1044
-".txt" : 14
+".py" : 1075
+".txt" : 18
 "unknown" : 30
 ".json" : 69
 ```
@@ -46,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 13
-"21h" : 15
+"21h" : 20
 ```
 
 
-> **Last Updated:** 7/3/2026, 9:50:36 PM
+> **Last Updated:** 7/3/2026, 10:00:36 PM
