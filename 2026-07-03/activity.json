@@ -3,8 +3,8 @@
   "projects": {
     "researchlens": {
       "totalLinesAdded": 947,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 12,
+      "totalLinesRemoved": 109,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\GitHub\\researchlens\\ingestion.py": [
           {
@@ -203,6 +203,34 @@
             "fileType": ".py",
             "linesAdded": 256,
             "linesRemoved": 0,
+            "projectName": "researchlens",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-07-03T15:38:26.809Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\GitHub\\researchlens\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 55,
+            "projectName": "researchlens",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-07-03T15:38:51.952Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\GitHub\\researchlens\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 15,
             "projectName": "researchlens",
             "content": {
               "added": [],
