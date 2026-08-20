@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-20",
+  "projects": {
+    "LAB2": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 8,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\first.html": [
+          {
+            "timestamp": "2026-08-20T03:28:50.955Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\first.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T03:28:52.102Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\first.html",
+            "fileType": ".html",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\second.html": [
+          {
+            "timestamp": "2026-08-20T03:30:22.612Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\second.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T03:30:23.634Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\second.html",
+            "fileType": ".html",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\third.html": [
+          {
+            "timestamp": "2026-08-20T03:32:27.121Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\third.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T03:32:28.141Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\third.html",
+            "fileType": ".html",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 8
+      },
+      "changeFrequency": {
+        "8": 1,
+        "9": 7
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\first.html",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\second.html",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\third.html"
+      ],
+      "averageChangeSize": 10.666666666666666
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    9,
+    8
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
