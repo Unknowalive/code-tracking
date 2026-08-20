@@ -2,7 +2,7 @@
   "date": "2026-08-20",
   "projects": {
     "LAB2": {
-      "totalLinesAdded": 213,
+      "totalLinesAdded": 236,
       "totalLinesRemoved": 12,
       "totalActiveTime": 24,
       "files": {
@@ -209,6 +209,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T04:16:56.147Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\frame1.html",
+            "fileType": ".html",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ],
