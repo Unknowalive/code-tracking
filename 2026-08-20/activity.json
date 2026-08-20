@@ -2,9 +2,9 @@
   "date": "2026-08-20",
   "projects": {
     "LAB2": {
-      "totalLinesAdded": 88,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 161,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\first.html": [
           {
@@ -144,6 +144,50 @@
           {
             "timestamp": "2026-08-20T03:47:42.529Z",
             "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\frame1.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\task1.html": [
+          {
+            "timestamp": "2026-08-20T03:58:17.655Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\task1.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T03:58:18.664Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\task1.html",
+            "fileType": ".html",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "LAB2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-08-20T03:58:21.790Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB2\\task1.html",
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 1,
