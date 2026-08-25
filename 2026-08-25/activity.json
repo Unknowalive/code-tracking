@@ -358,8 +358,8 @@
     },
     "Immersive_CODES": {
       "totalLinesAdded": 135,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -430,6 +430,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:39:12.093Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:40:34.571Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
