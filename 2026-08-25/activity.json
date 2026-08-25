@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-25",
+  "projects": {
+    "PWS_V": {
+      "totalLinesAdded": 252,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb": [
+          {
+            "timestamp": "2026-08-25T03:05:55.118Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 221,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:06:04.552Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:06:23.918Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:06:37.467Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:06:52.941Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:06:54.254Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:07:04.825Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-08-25T03:07:20.136Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 7
+      },
+      "changeFrequency": {
+        "8": 7
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb"
+      ],
+      "averageChangeSize": 32
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "ipynb"
+  ]
+}
