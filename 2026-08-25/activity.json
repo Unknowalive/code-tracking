@@ -355,6 +355,95 @@
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb"
       ],
       "averageChangeSize": 32
+    },
+    "Immersive_CODES": {
+      "totalLinesAdded": 135,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2026-08-25T11:38:00.813Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:01.847Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:19.073Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:58.886Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:59.938Z",
+            "fileName": "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 4
+      },
+      "changeFrequency": {
+        "17": 4
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 27.2
     }
   },
   "totalActiveTime": 7,
