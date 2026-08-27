@@ -231,9 +231,9 @@
       "averageChangeSize": 11
     },
     "Immersive_CODES": {
-      "totalLinesAdded": 37,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\Program.cs": [
           {
@@ -396,6 +396,50 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs": [
+          {
+            "timestamp": "2026-08-27T12:25:09.319Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-08-27T12:25:22.100Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs",
+            "fileType": ".cs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-08-27T12:25:48.190Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "Immersive_CODES",
             "content": {
               "added": [],
