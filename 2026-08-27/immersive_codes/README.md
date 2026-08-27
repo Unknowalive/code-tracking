@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 46                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 37                |
-| **Active Time** (⌚)   | 21 minutes |
+| **Lines Added** (➕)   | 117                                          |
+| **Lines Removed** (➖) | 44                                        |
+| **Net Change** (↕)    | 73                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
 - **Program.cs** (+37, -1)
-- **tryibg.cs** (+9, -8)
+- **tryibg.cs** (+44, -43)
+- **Program.cs** (+36, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 55
+".cs" : 161
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 15
+"18h" : 4
 ```
 
 
-> **Last Updated:** 8/27/2026, 5:56:47 PM
+> **Last Updated:** 8/27/2026, 6:01:48 PM

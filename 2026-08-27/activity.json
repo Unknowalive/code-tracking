@@ -231,9 +231,9 @@
       "averageChangeSize": 11
     },
     "Immersive_CODES": {
-      "totalLinesAdded": 46,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 117,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\Program.cs": [
           {
@@ -440,6 +440,64 @@
             "fileType": ".cs",
             "linesAdded": 0,
             "linesRemoved": 8,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-08-27T12:30:24.090Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs",
+            "fileType": ".cs",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-08-27T12:30:26.475Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\tryibg.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\uk707\\Immersive_CODES\\datatype with var\\Program.cs": [
+          {
+            "timestamp": "2026-08-27T12:30:28.704Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatype with var\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-08-27T12:30:29.728Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\datatype with var\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 35,
+            "linesRemoved": 0,
             "projectName": "Immersive_CODES",
             "content": {
               "added": [],
