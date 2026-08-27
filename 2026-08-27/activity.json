@@ -231,9 +231,9 @@
       "averageChangeSize": 11
     },
     "Immersive_CODES": {
-      "totalLinesAdded": 117,
+      "totalLinesAdded": 153,
       "totalLinesRemoved": 44,
-      "totalActiveTime": 29,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Users\\uk707\\Immersive_CODES\\datatypes\\Program.cs": [
           {
@@ -504,6 +504,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\uk707\\Immersive_CODES\\Program.cs": [
+          {
+            "timestamp": "2026-08-27T12:33:54.442Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "cs"
           }
         ]
