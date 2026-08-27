@@ -2,7 +2,7 @@
   "date": "2026-08-27",
   "projects": {
     "WEB_TEC_2026": {
-      "totalLinesAdded": 236,
+      "totalLinesAdded": 287,
       "totalLinesRemoved": 0,
       "totalActiveTime": 14,
       "files": {
@@ -199,6 +199,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\Amazon.html": [
+          {
+            "timestamp": "2026-08-27T04:38:42.392Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\Amazon.html",
+            "fileType": ".html",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
