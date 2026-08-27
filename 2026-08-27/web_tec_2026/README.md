@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11                                          |
+| **Lines Added** (➕)   | 165                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 11                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 165                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **frame2.html** (+11, -0)
+- **navigationbar.html** (+46, -0)
+- **cart_loadout.html** (+64, -0)
+- **blockvs_inline.html** (+44, -0)
 
 ## Visualizations
 
@@ -20,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 11
+".html" : 165
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 1
+"09h" : 7
 ```
 
 
-> **Last Updated:** 8/27/2026, 9:14:16 AM
+> **Last Updated:** 8/27/2026, 9:49:16 AM
