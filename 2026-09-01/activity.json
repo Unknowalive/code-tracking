@@ -2,7 +2,7 @@
   "date": "2026-09-01",
   "projects": {
     "WEB_TEC_2026": {
-      "totalLinesAdded": 200,
+      "totalLinesAdded": 240,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -114,6 +114,22 @@
             },
             "duration": 5,
             "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\First assignment\\zomato.css": [
+          {
+            "timestamp": "2026-09-01T03:31:23.851Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\First assignment\\zomato.css",
+            "fileType": ".css",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ]
       },
