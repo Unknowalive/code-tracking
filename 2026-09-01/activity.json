@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-01",
+  "projects": {
+    "WEB_TEC_2026": {
+      "totalLinesAdded": 172,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-header.html": [
+          {
+            "timestamp": "2026-09-01T03:09:41.277Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-header.html",
+            "fileType": ".html",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.html": [
+          {
+            "timestamp": "2026-09-01T03:09:41.218Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.html",
+            "fileType": ".html",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.css": [
+          {
+            "timestamp": "2026-09-01T03:09:41.532Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.css",
+            "fileType": ".css",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-menu.html": [
+          {
+            "timestamp": "2026-09-01T03:09:41.393Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-menu.html",
+            "fileType": ".html",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-order.html": [
+          {
+            "timestamp": "2026-09-01T03:09:41.451Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-order.html",
+            "fileType": ".html",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0,
+        "css": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-header.html",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.html",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato.css",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-menu.html",
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-order.html"
+      ],
+      "averageChangeSize": 34.4
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "css"
+  ]
+}
