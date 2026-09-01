@@ -353,9 +353,9 @@
       "averageChangeSize": 193.33333333333334
     },
     "Immersive_CODES": {
-      "totalLinesAdded": 50,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 80,
+      "totalLinesRemoved": 62,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs": [
           {
@@ -518,6 +518,146 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:42:50.955Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:18.567Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:26.357Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:32.153Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:45.163Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:49.407Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:51.921Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:43:56.157Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:44:05.237Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Immersive_CODES",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2026-09-01T12:44:08.349Z",
+            "fileName": "c:\\Users\\uk707\\Immersive_CODES\\Classes\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Immersive_CODES",
             "content": {
               "added": [],
