@@ -148,6 +148,67 @@
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB3\\zomato-order.html"
       ],
       "averageChangeSize": 34.4
+    },
+    "PWS_V": {
+      "totalLinesAdded": 576,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb": [
+          {
+            "timestamp": "2026-09-01T03:35:53.631Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 508,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-09-01T03:36:09.820Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-09-01T03:36:23.584Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "PWS_V",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\PWS_V\\PWS-LAB-CODES.ipynb"
+      ],
+      "averageChangeSize": 193.33333333333334
     }
   },
   "totalActiveTime": 2,
