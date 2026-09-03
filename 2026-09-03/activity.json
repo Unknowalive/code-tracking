@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "WEB_TEC_2026": {
-      "totalLinesAdded": 1830,
+      "totalLinesAdded": 2292,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 23,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD2.HTML": [
           {
@@ -280,6 +280,54 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\college-event.html": [
+          {
+            "timestamp": "2026-09-03T04:16:28.573Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\college-event.html",
+            "fileType": ".html",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\college-event.css": [
+          {
+            "timestamp": "2026-09-03T04:16:28.680Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\college-event.css",
+            "fileType": ".css",
+            "linesAdded": 317,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\event-hero.svg": [
+          {
+            "timestamp": "2026-09-03T04:16:35.478Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\event-hero.svg",
+            "fileType": ".svg",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "svg"
           }
         ]
       },

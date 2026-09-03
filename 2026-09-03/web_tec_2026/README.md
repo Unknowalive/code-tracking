@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1830                                          |
+| **Lines Added** (➕)   | 2292                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1830                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Net Change** (↕)    | 2292                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,9 @@
 - **favicon.svg** (+6, -0)
 - **index.html** (+162, -0)
 - **style.css** (+329, -0)
+- **college-event.html** (+123, -0)
+- **college-event.css** (+317, -0)
+- **event-hero.svg** (+22, -0)
 
 ## Visualizations
 
@@ -32,9 +35,9 @@
 pie showData
 title Lines changed by file type
 ".HTML" : 210
-".html" : 487
-".css" : 1121
-".svg" : 12
+".html" : 610
+".css" : 1438
+".svg" : 34
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 3
-"09h" : 15
+"09h" : 18
 ```
 
 
-> **Last Updated:** 9/3/2026, 9:41:55 AM
+> **Last Updated:** 9/3/2026, 9:46:55 AM
