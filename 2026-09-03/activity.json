@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "WEB_TEC_2026": {
-      "totalLinesAdded": 49,
+      "totalLinesAdded": 149,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD2.HTML": [
           {
@@ -19,6 +19,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "HTML"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD4.HTML": [
+          {
+            "timestamp": "2026-09-03T03:06:56.263Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD4.HTML",
+            "fileType": ".HTML",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "HTML"
+          }
+        ],
+        "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD5.HTML": [
+          {
+            "timestamp": "2026-09-03T03:07:30.078Z",
+            "fileName": "c:\\Users\\uk707\\OneDrive - Mahindra University\\Documents\\SEMESTER V 2026-2027\\WEB_TEC_2026\\LAB4\\RWD5.HTML",
+            "fileType": ".HTML",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "WEB_TEC_2026",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "HTML"
           }
         ]
